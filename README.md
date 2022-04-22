@@ -1,2 +1,2 @@
-# bigwill.github.io
+# bigwill
 blog
